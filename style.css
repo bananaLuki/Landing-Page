@@ -37,7 +37,15 @@ h2 {
     justify-content: space-evenly;
 }
 
+.quote {
+    background-color: antiquewhite;
+}
+
 #mainimg {
     width: 300px;
     height: 100px;
+}
+
+#author {
+    text-align: right;
 }
