@@ -6,6 +6,11 @@ ul {
     list-style-type: none;
 }
 
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
 .header {
     display: flex;
     flex-direction: row;
@@ -24,6 +29,12 @@ ul {
     flex-direction: row;
     justify-content: space-between;
     background-color: beige;
+}
+
+.projects {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
 }
 
 #mainimg {
